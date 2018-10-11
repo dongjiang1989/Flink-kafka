@@ -1,0 +1,5 @@
+kafka/BatchJob.class
+kafka/kafkaRead.class
+kafka/kafkaRead$1.class
+kafka/StreamingJob.class
+kafka/kafkaRead$2.class
